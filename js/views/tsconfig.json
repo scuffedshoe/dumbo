@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true,
+    "outFile": "views.js"
+  },
+  "files":[
+    "../libs/jquery/jquery.d.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

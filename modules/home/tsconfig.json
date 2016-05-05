@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true,
+    "outFile": "Home.js"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
