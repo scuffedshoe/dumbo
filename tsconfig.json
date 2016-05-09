@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true,
+    "outFile": "index.js"
+  },
+  "files":[
+    "js/libs/jquery/jquery.d.ts",
+    "js/common/Common.ts",
+    "index.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

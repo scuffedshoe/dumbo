@@ -1,1 +1,0 @@
-{"version":3,"sources":["main.ts"],"names":[],"mappings":"AAAA,IAAI,MAAM,GAAa,IAAI,QAAQ,CAAC,MAAM,CAAC,CAAC;AAE5C,OAAO,CAAC,GAAG,CAAC,QAAQ,GAAG,MAAM,CAAC,OAAO,EAAE,CAAC,CAAC","file":"main.js","sourcesContent":["var person: Customer = new Customer('Zach');\n\nconsole.log('Hello ' + person.getName());"],"sourceRoot":"/source/"}
